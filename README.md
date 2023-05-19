@@ -13,7 +13,7 @@ The application demonstrates the utilization of common object-oriented design pa
 ### Layered Architecture
 The application follows a layered architecture approach, separating concerns into distinct layers including domain, UI, service, and repository. This stratification promotes code organization, modularity, and maintainability.
 
-<img src="https://github.com/MarcuTamas/Online_Pharmacy_Management/blob/main/RunningExamplesScreenshots/Object-Oriented%20Design%20Patterns%20%26%20Layered%20Architecture.png" alt="Object-Oriented Design Patterns & Layered Architecture" width="500">
+<img src="https://github.com/MarcuTamas/Online_Pharmacy_Management/blob/main/RunningExamplesScreenshots/Object-Oriented%20Design%20Patterns%20%26%20Layered%20Architecture.png" alt="Object-Oriented Design Patterns & Layered Architecture" width="700">
 
 ![Object-Oriented Design Patterns   Layered Architecture]()
 
