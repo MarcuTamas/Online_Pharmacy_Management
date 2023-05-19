@@ -16,6 +16,8 @@ The application follows a layered architecture approach, separating concerns int
 ### Command-Line Interface
 The application utilizes a command-line interface (UI) to interact with users. This provides a straightforward and text-based interface for executing commands and accessing various features of the online pharmacy management system.
 
+![Command-Line Interface](RunningExamplesScreenshots/Command-Line Interface.png)
+
 ### Validation
 The application includes validation mechanisms to ensure data integrity and enforce rules and constraints for medication records, client card information, and transaction data.
 
