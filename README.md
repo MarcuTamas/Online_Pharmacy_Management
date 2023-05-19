@@ -62,10 +62,6 @@ Allows the deletion of all transactions within a specific range of days, ensurin
 
 With this app, we thrive to demonstrate in practice the theoretical concepts acquired so far. Let's continue exploring and applying our knowledge to build innovative and reliable software solutions.
 
-Thank you for using the Online Pharmacy Management App! 💻
+Thank you for looking at the Online Pharmacy Management App! 💻
 
-
-
-
-
-
+We hope you found this application demonstration insightful and informative. If you have any further questions or feedback, please don't hesitate to reach out. Happy coding! 🚀
