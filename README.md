@@ -13,12 +13,12 @@ The application demonstrates the utilization of common object-oriented design pa
 ### Layered Architecture
 The application follows a layered architecture approach, separating concerns into distinct layers including domain, UI, service, and repository. This stratification promotes code organization, modularity, and maintainability.
 
-![Object-Oriented Design Patterns   Layered Architecture](https://github.com/MarcuTamas/Online_Pharmacy_Management/RunningExamplesScreenshots/Object-Oriented Design Patterns & Layered Architecture.png)
+![Object-Oriented Design Patterns   Layered Architecture](https://github.com/MarcuTamas/Online_Pharmacy_Management/blob/main/RunningExamplesScreenshots/Object-Oriented%20Design%20Patterns%20%26%20Layered%20Architecture.png)
 
 ### Command-Line Interface
 The application utilizes a command-line interface (UI) to interact with users. This provides a straightforward and text-based interface for executing commands and accessing various features of the online pharmacy management system.
 
-![Command-Line Interface](https://github.com/MarcuTamas/Online_Pharmacy_Management/RunningExamplesScreenshots/Command-Line Interface.png)
+![Command-Line Interface](https://github.com/MarcuTamas/Online_Pharmacy_Management/blob/main/RunningExamplesScreenshots/Command-Line%20Interface.png)
 
 ### Validation
 The application includes validation mechanisms to ensure data integrity and enforce rules and constraints for medication records, client card information, and transaction data.
@@ -26,12 +26,12 @@ The application includes validation mechanisms to ensure data integrity and enfo
 ### Error Handling
 The application is equipped with its own custom error classes and implements error handling mechanisms to handle exceptions and provide meaningful feedback to users in case of errors or exceptional scenarios.
 
-![Error Handling](https://github.com/MarcuTamas/Online_Pharmacy_Management/RunningExamplesScreenshots/Error Handling.png)
+![Error Handling](https://github.com/MarcuTamas/Online_Pharmacy_Management/blob/main/RunningExamplesScreenshots/Error%20Handling.png)
 
 ### Test Coverage
 The application has a comprehensive suite of unit tests implemented using the JUnit 5 framework. It achieves 100% test coverage for the classes found in the domain, repository, and service layers, ensuring the reliability and correctness of the application's functionality.
 
-![Test Coverage](https://github.com/MarcuTamas/Online_Pharmacy_Management/RunningExamplesScreenshots/Test Coverage.png)
+![Test Coverage](https://github.com/MarcuTamas/Online_Pharmacy_Management/blob/main/RunningExamplesScreenshots/Test%20Coverage.png)
 
 ### CRUD Operations
 The application implements Create, Read, Update, and Delete (CRUD) operations for managing medication records, client card information, and transaction data. This allows for efficient manipulation of data within the application.
